@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../7up.com"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "7up.com"
+	}
+}
